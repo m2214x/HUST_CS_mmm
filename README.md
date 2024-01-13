@@ -9,5 +9,6 @@
 | 数值分析 | [数值分析](https://github.com/m2214x/HUST_CS_Data-Analysis) | 专业选修课 |
 | 硬件课程综合设计 |  |  |
 | 计算机图形学 |  |  | 
-| 嵌入式系统 |
+| 嵌入式系统 |  |  |
+| 操作系统 | [数值分析](https://github.com/m2214x/HUST_CS_Data-Analysis) | 必修课，挑战一为上学期实验课，挑战二为下学期课程设计 |
 
